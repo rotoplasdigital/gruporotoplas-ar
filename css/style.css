@@ -8,6 +8,19 @@
 /* ================================================ */
 a {
 	text-decoration: none;
+	color: #002554;
+}
+a:hover {
+	color: #009cde;
+}
+
+hr {
+    margin-bottom: 2rem;
+    background-color: #009cde;
+    opacity: 1;
+}
+hr:not([size]) {
+    height: 2px;
 }
 
 .rtp-btn {

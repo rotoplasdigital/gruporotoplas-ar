@@ -34,7 +34,7 @@ includeHTML();
         prevScrollpos = currentScrollPos
     }
 
-    var toggler = document.getElementById('navegacion-toggler')
+    /* var toggler = document.getElementById('navegacion-toggler')
     toggler.onclick = function() {
         if ( window.pageYOffset == 0 && menu.classList.contains('scrolled-alternate') ) {
             menu.classList.remove('scrolled-alternate')
@@ -42,5 +42,5 @@ includeHTML();
             menu.classList.add('scrolled-alternate')
         }
         
-    }
+    } */
 /* hide menu */
