@@ -2,7 +2,7 @@
     height: 750px;
     background: #002554;
     color: #fff;
-    background: url(/images/quienes-somos/nosotros-banner-01.jpg) no-repeat;
+    background: url(http://127.0.0.1:5500/images/quienes-somos/nosotros-banner-01.jpg) no-repeat;
 }
 
 .nosotros-nodo {

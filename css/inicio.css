@@ -59,21 +59,21 @@ margin-left: 5%;
 
 #inicio-slider-1 {
 color: #fff;
-background: url(/images/inicio/rtp-global-slider-03.jpg);
+background: url(http://127.0.0.1:5500/images/inicio/rtp-global-slider-03.jpg);
 
 background-size: cover;
 background-position: top center;
 }
 #inicio-slider-2 {
 color: #fff;
-background: url(/images/inicio/rtp-global-slider-04.jpg);
+background: url(http://127.0.0.1:5500/images/inicio/rtp-global-slider-04.jpg);
 
 background-size: cover;
 background-position: top center;
 }
 #inicio-slider-3 {
 color: #fff;
-background: url(/images/inicio/rtp-global-slider-01.jpg);
+background: url(http://127.0.0.1:5500/images/inicio/rtp-global-slider-01.jpg);
 
 background-size: cover;
 background-position: top center;

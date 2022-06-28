@@ -179,7 +179,7 @@ hr:not([size]) {
 		display: inline-block;
 		height: 20px;
 		width: 20px;
-		background-image: url(../images/arrow-right.svg);
+		background-image: url(http://127.0.0.1:5500/images/arrow-right.svg);
 		background-size: contain;
 		background-repeat: no-repeat;
 		padding-left: 18px;
